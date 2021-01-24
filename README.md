@@ -93,16 +93,16 @@ Tatu: Bladeja ja bootstrappia. Salasanan generointi. Graafien luontia.
 
 ## Alustava suunnitelma komponenttitasolla 1.8.2020
 <p style="display: block">Seuraava on suunnitelma sivuston päänäkymistä</p>
-<img id="main" src="https://gitlab.labranet.jamk.fi/webkurssit/tuotetietokanta-harjoitustyo-web-kurssit/-/raw/master/laitetietokanta_p%C3%A4%C3%A4n%C3%A4kym%C3%A4.png"><img>
+<img id="main" src="./laitetietokanta_p%C3%A4%C3%A4n%C3%A4kym%C3%A4.png"><img>
 <p style="display: block">Seuraava on suunnitelma sivuston yksityiskohtaisimmista toiminnoista</p>
-<img id="comps" src="https://gitlab.labranet.jamk.fi/webkurssit/tuotetietokanta-harjoitustyo-web-kurssit/-/raw/master/laitetietokanta_toiminnot.png"></img>
+<img id="comps" src="./laitetietokanta_toiminnot.png"></img>
 
 
 ## Tietokannan rakenne - suunnitelma 5.8.2020 (päivitetty 6.8)
 
-<img src="https://gitlab.labranet.jamk.fi/webkurssit/tuotetietokanta-harjoitustyo-web-kurssit/-/raw/master/entity_relations.png"></img>
+<img src="./entity_relations.png"></img>
 
 
 ## Suunnittelu - 7.8.2020
 
-<img id="comps_0708" src="https://gitlab.labranet.jamk.fi/webkurssit/tuotetietokanta-harjoitustyo-web-kurssit/-/raw/master/laitetietokanta_toiminnot_2020_08_07_02.png">
+<img id="comps_0708" src="./laitetietokanta_toiminnot_2020_08_07_02.png">
