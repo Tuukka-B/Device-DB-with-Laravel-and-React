@@ -10,6 +10,15 @@ Please try our application yourself, you can use the credentials provided in the
   
 # Current Status of the Project
 This project is in active development by yours truly. I have acquired permissions to publish any file that I have made "in my own time" - i.e., without being paid.
+<img id="main" src="./img/addnewitem.png"><img>
+<img id="main" src="./img/entity_relations_final.png"><img>
+<img id="main" src="./img/paanakymat.png"><img>
+<img id="main" src="./img/sivustokohtaiset_toiminnot.png"><img>
+
+
+
+
+Below you will find our original documentation of the project in finnish.
 
 ## Aihe
 
@@ -93,16 +102,16 @@ Tatu: Bladeja ja bootstrappia. Salasanan generointi. Graafien luontia.
 
 ## Alustava suunnitelma komponenttitasolla 1.8.2020
 <p style="display: block">Seuraava on suunnitelma sivuston päänäkymistä</p>
-<img id="main" src="./laitetietokanta_p%C3%A4%C3%A4n%C3%A4kym%C3%A4.png"><img>
+<img id="main" src="./img/laitetietokanta_p%C3%A4%C3%A4n%C3%A4kym%C3%A4.png"><img>
 <p style="display: block">Seuraava on suunnitelma sivuston yksityiskohtaisimmista toiminnoista</p>
-<img id="comps" src="./laitetietokanta_toiminnot.png"></img>
+<img id="comps" src="./img/laitetietokanta_toiminnot.png"></img>
 
 
 ## Tietokannan rakenne - suunnitelma 5.8.2020 (päivitetty 6.8)
 
-<img src="./entity_relations.png"></img>
+<img src="./img/entity_relations.png"></img>
 
 
 ## Suunnittelu - 7.8.2020
 
-<img id="comps_0708" src="./laitetietokanta_toiminnot_2020_08_07_02.png">
+<img id="comps_0708" src="./img//laitetietokanta_toiminnot_2020_08_07_02.png">
