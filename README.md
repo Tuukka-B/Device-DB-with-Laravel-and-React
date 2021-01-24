@@ -10,10 +10,12 @@ Please try our application yourself, you can use the credentials provided in the
   
 # Current Status of the Project
 This project is in active development by yours truly. I have acquired permissions to publish any file that I have made "in my own time" - i.e., without being paid.
+<!-- Commented out: detailed report is already available at http://164.90.189.40/harjoitustyo/public/raportti
 <img id="main" src="./img/addnewitem.png"><img>
 <img id="main" src="./img/entity_relations_final.png"><img>
 <img id="main" src="./img/paanakymat.png"><img>
 <img id="main" src="./img/sivustokohtaiset_toiminnot.png"><img>
+-->
 
 
 
