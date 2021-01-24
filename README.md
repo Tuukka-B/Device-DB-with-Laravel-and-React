@@ -10,5 +10,3 @@ Please try our application yourself, you can use the credentials provided in the
   
 # Current Status of the Project
 This project is in active development by yours truly. I have acquired permissions to publish any file that I have made "in my own time" - i.e., without being paid.
-
-I will upload all the files here soon.
